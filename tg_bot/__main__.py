@@ -29,7 +29,7 @@ You can find my list of available commands with :
 """
 
 
-BOT_IMG = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+BOT_IMG = "https://telegra.ph/file/079217777785aac83f0ec.jpg"
 
 
 
