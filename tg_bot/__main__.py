@@ -29,7 +29,7 @@ You can find my list of available commands with :
 """
 
 
-BOT_IMG = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+BOT_IMG = "https://telegra.ph/file/079217777785aac83f0ec.jpg"
 
 
 
@@ -155,16 +155,16 @@ def start(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Support Chat ",
-                            url="https://t.me/KoraSupport"),
+                            text="Support Chat ",9
+                            url="https://t.me/WRRLEGEND"),
                         InlineKeyboardButton(
                             text="Updates ",
-                            url="https://t.me/koraupdates")
+                            url="https://t.me/WRRLEGEND")
                     ],
                     [
                         InlineKeyboardButton(
                             text="help",
-                            url="https://t.me/koragroup_bot?start=help")
+                            url="https://t.me/Angel_groupbot"?start=help")
                     ]]))
        
 #@run_async
