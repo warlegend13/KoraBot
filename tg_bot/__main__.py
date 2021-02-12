@@ -29,9 +29,6 @@ You can find my list of available commands with :
 """
 
 
-BOT_IMG = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
-
-
 
 
 HELP_STRINGS = """
